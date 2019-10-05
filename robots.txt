@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://elaimaamei.bingwhispers.com/sitemap.xml
